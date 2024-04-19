@@ -14,7 +14,7 @@ Proje Ana Menüsünde ilgili uygulamaları seçiniz.
 
 <h1></h1>
 
-1.HESAP MAKİNESİ
+1.KAYIT EKLEME
 
 <img width="400" alt="1 HESAP MAKİNESİ" src="https://github.com/ertanoner/Proje2-Rehber/assets/161921025/08186065-053c-47d8-80fe-1e20ecb98c5d">
 
