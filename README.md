@@ -49,3 +49,14 @@ Kayıt Ara seçeneği ile rehberde yer alan bir kişi veya aynı isimli kişiler
 Kayıt Silme seçeneği ile rehberde yer alan bir kişi veya aynı isimli kişilerin kayıtlarını silmektedir. Sonrasında program otomatik olarak Ana Menü'ye dönmektedir. 
 
 <h1></h1>
+
+5.KAYIT DÜZELTME
+
+<img width="400" alt="1 HESAP MAKİNESİ" src="https://github.com/ertanoner/Proje2-Rehber/assets/161921025/ff0d3b53-5513-458e-8967-c14c404fd794">
+
+
+Kayıt Düzeltme seçeneği ile rehberde yer alan bir kişi veya aynı isimli kişilerin kayıtlarınında değişiklik yapılabilmektedir. Aynı isimde ilk kişinin kayıtları sırasıyla yeni isim, yeni soyad ve yeni numaralarının girişi yapıldıktan sonra ikinci ve varsa takip eden kişilerin kayıtları yeniden girilir. Aynı isimde kişiler tamamlanınca program otomatik olarak Ana Menü'ye dönmektedir. 
+
+<h1></h1>
+
+
