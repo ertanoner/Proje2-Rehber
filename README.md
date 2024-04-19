@@ -41,3 +41,11 @@ Kayıtları Listele seçeneği ile isim, soyad ve telefon numarası girişi yap�
 Kayıt Ara seçeneği ile rehberde yer alan bir kişi veya aynı isimli kişileri görüntüleyecektir. Sonrasında program otomatik olarak Ana Menü'ye dönmektedir. 
 
 <h1></h1>
+
+4.KAYIT SİLME
+
+<img width="400" alt="1 HESAP MAKİNESİ" src="https://github.com/ertanoner/Proje2-Rehber/assets/161921025/489b9aa0-fe41-4145-a5b3-c950c4038527">
+
+Kayıt Silme seçeneği ile rehberde yer alan bir kişi veya aynı isimli kişilerin kayıtlarını silmektedir. Sonrasında program otomatik olarak Ana Menü'ye dönmektedir. 
+
+<h1></h1>
