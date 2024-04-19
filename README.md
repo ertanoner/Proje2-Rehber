@@ -6,7 +6,9 @@
 Rehber dosyası ile isim, soyad ve telefon numarası kaydı yapabiliyoruz. 
 <h1></h1>
 
-<img width="305" alt="PROJE ANA MENÜ" src="https://github.com/ertanoner/Proje1-Console/assets/161921025/bfae6b23-d2cb-4efe-93b0-ecc46b5c74e9">
+<img width="305" alt="PROJE ANA MENÜ" src="https://github.com/ertanoner/Proje2-Rehber/assets/161921025/0d2bb9a0-a60a-4e29-8db0-ea2a041e94fa">
+
+
 
 Proje Ana Menüsünde ilgili uygulamaları seçiniz.
 
