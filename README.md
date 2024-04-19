@@ -33,3 +33,11 @@ Kayıt Ekle seçeneği ile isim, soyad ve telefon numarası girişi yapılmaktad
 Kayıtları Listele seçeneği ile isim, soyad ve telefon numarası girişi yapılmış ve rehberde yer alan tüm kişileri ve telefon numaralarını sıralamaktadır. Sıralamadan sonra program otomatik olarak Ana Menü'ye dönmektedir. 
 
 <h1></h1>
+
+3.KAYIT ARAMA
+
+<img width="400" alt="1 HESAP MAKİNESİ" src="https://github.com/ertanoner/Proje2-Rehber/assets/161921025/0c49cd8a-a5e3-4256-82f3-cf47bb63e3b7">
+
+Kayıt Ara seçeneği ile rehberde yer alan bir kişi veya aynı isimli kişileri görüntüleyecektir. Sonrasında program otomatik olarak Ana Menü'ye dönmektedir. 
+
+<h1></h1>
