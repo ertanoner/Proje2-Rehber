@@ -21,11 +21,15 @@ Proje Ana Menüsünde ilgili uygulamaları seçiniz.
 <img width="400" alt="1 HESAP MAKİNESİ" src="https://github.com/ertanoner/Proje2-Rehber/assets/161921025/08186065-053c-47d8-80fe-1e20ecb98c5d">
 
 
-Kayıt Ekle seçeneği ile isim, soyad ve telefon numarası girişi yapılmaktadır. Telefon numartası başında "0" olmadan girilmelidir. Bazı işletim sistemlerinde Türkçe karakterlerden "ç,ı ve ş" harfleri girildiğinde hata veriyor dolayısıyla bu karakterleri kullanmadan isim ve soyad bilgileri girilmelidir. İstenen bilgiler girildikten sonra yeni bir kayıt girilmesi için aynı menüde devam edilip edilmeyeceği soruluyor, evet için "e" veya hayır için "h" yazılmalıdır. "h" veya "e" nin dışında başka karakter yazılması durumunda program ana menüye dönecektir.
+Kayıt Ekle seçeneği ile isim, soyad ve telefon numarası girişi yapılmaktadır. Telefon numartası başında "0" olmadan girilmelidir. Bazı işletim sistemlerinde Türkçe karakterlerden "ç,ı ve ş" harfleri girildiğinde hata veriyor dolayısıyla bu karakterleri kullanmadan isim ve soyad bilgileri girilmelidir. İstenen bilgiler girildikten sonra yeni bir kayıt girilmesi için aynı menüde devam edilip edilmeyeceği soruluyor, evet için "e" veya hayır için "h" yazılmalıdır. "h" veya "e" nin dışında başka karakter yazılması durumunda program Ana Menü'ye dönecektir.
 
 <h1> </h1> 
 
+2.KAYITLARI LİSTELEME
+
+<img width="400" alt="1 HESAP MAKİNESİ" src="https://github.com/ertanoner/Proje2-Rehber/assets/161921025/c36e22a9-3eca-4bf5-a94e-c21514430bcc">
 
 
+Kayıtları Listele seçeneği ile isim, soyad ve telefon numarası girişi yapılmış ve rehberde yer alan tüm kişileri ve telefon numaralarını sıralamaktadır. Sıralamadan sonra program otomatik olarak Ana Menü'ye dönmektedir. 
 
-![image](https://github.com/ertanoner/Proje2-Rehber/assets/161921025/49492f1a-6f5e-4708-a7e9-f84c61faf1d3)
+<h1></h1>
