@@ -59,4 +59,12 @@ Kayıt Düzeltme seçeneği ile rehberde yer alan bir kişi veya aynı isimli ki
 
 <h1></h1>
 
+6.ÇIKIŞ
+
+<img width="200" alt="PROJE ANA MENÜ" src="https://github.com/ertanoner/Proje2-Rehber/assets/161921025/0d2bb9a0-a60a-4e29-8db0-ea2a041e94fa">
+
+Çıkış seçeneği ile program kapatılır.
+
+<h1></h1>
+
 
