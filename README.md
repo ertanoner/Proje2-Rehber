@@ -1,4 +1,4 @@
-<h1 style="color:red; font-family:Times New Roman; font-size:55pt"> REHBER PROGRAMI </h1>
+<h1 style="color:red; font-family:Times New Roman; font-size:55pt"> # 2. PROJE REHBER PROGRAMI </h1>
 
 <h1>Ertan ÖNER </h1>
 <img src="https://www.python.org/static/img/python-logo.png" alt="Python"/>
@@ -10,7 +10,6 @@ Rehber dosyası ile isim, soyad ve telefon numarası kaydı yapabiliyoruz.
 
 
 
-"""
 
 
 
