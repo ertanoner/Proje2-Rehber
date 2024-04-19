@@ -1,9 +1,16 @@
 <h1 style="color:red; font-family:Times New Roman; font-size:55pt"> REHBER PROGRAMI </h1>
 
+<h1>Ertan ÖNER </h1>
+
 Rehber dosyası ile isim, soyad ve telefon numarası kaydı yapabiliyoruz. 
 
+
+
+
+
+
 """
-<h1 style="color:red; font-family:Times New Roman; font-size:55pt"> Console Uygulaması </h1>
+
 
 <h1>Ertan ÖNER </h1>
 
