@@ -16,7 +16,7 @@ Proje Ana Menüsünde ilgili uygulamaları seçiniz.
 
 1.HESAP MAKİNESİ
 
-<img width="200" alt="1 HESAP MAKİNESİ" src="https://github.com/ertanoner/Proje2-Rehber/assets/161921025/08186065-053c-47d8-80fe-1e20ecb98c5d">
+<img width="300" alt="1 HESAP MAKİNESİ" src="https://github.com/ertanoner/Proje2-Rehber/assets/161921025/08186065-053c-47d8-80fe-1e20ecb98c5d">
 
 
 Hesap Makinesi Menüsünden yapılması istenen işlemi seçiniz.
